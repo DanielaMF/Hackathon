@@ -21,3 +21,4 @@ Durante o desafio, tive a ajuda dos colegas de trabalho.
 Todo código gerado foi hospedado em um repositório `privado` utilizado e permitido pela empresa.
 
 > __Importante__: Este código não está sobre minha posse, pois esta empresa utiliza a politica de privacidade dos próprios códigos.
+
