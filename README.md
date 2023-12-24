@@ -1,12 +1,23 @@
-<h1 align="center"> Hackathon </h1>
-<h1><bold>Consulta de Fontes Abertos e Fechados nos Clientes - Projeto Hackathon</bold></h1>
-<br>
+# Hackathon
+
+Esse repositório serve para documentar o meu projeto `hackathon`, o projeto teve a duração de um mês.
+
 Meu objetivo nesse projeto foi desenvolver uma melhoria do processo de atendimento aos chamados, cujas as plataformas que possuem muitos arquivos acabam dificultando o alcance de informações necessárias para o desenvolvimento dos chamados. 
-<h2>Problema</h2>
-<p> > Clientes com muitos arquivos são uma dificuldade de localizar as informações necessárias do programa como a data da ultima atualização.</p>
-<p> > Encontrar informações espalhadas sobre os programas é difícil e demorado. </p>
-<h2>Solução</h2>
-<p>Modelo ER</p>
-![image](https://github.com/DanielaMF/Hackathon/assets/89213064/2c1e09f7-544b-44e7-93a4-613164f62563)
-<br><p>Descrição</p>
-![image](https://github.com/DanielaMF/Hackathon/assets/89213064/d3d3df64-e765-462a-90ed-c30d7bbdf678)
+
+## Organização geral
+
+Data: `05/06/2023` até `07/07/2023`
+
+Empresa Patrocinadora: `Agrosys`
+
+## 1 - Formato
+
+Evento foi realizado 100% presencial, todos os participantes desenvolveram um projeto.
+
+Durante o desafio, tive a ajuda dos colegas de trabalho.
+
+## 1.1 - Onde armazo o código durante a competição
+
+Todo código gerado foi hospedado em um repositório `privado` utilizado e permitido pela empresa.
+
+> __Importante__: Este código não está sobre minha posse, pois esta empresa utiliza a politica de privacidade dos próprios códigos.
