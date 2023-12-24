@@ -25,17 +25,17 @@ Todo código gerado foi hospedado em um repositório `privado` utilizado e permi
 ## 2 - Linguagens Utilizadas
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="/assets/logoprogress.png">
+  <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Dani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Dani-Progress4gl" height="30" width="40" src="/assets/logoprogress.png">
 </div>
 
 ## 3 - Telas
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="/assets/tela1.jpg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="/assets/tela2.jpg">
-   <img align="center" alt="Rafa-CSS" height="30" width="40" src="/assets/tela3.jpg">
-   <img align="center" alt="Rafa-CSS" height="30" width="40" src="/assets/tela4.jpg">
+  <img align="center" alt="Tela Inicial" src="/assets/tela1.jpg">
+  <img align="center" alt="Tela 2"  src="/assets/tela2.jpg">
+   <img align="center" alt="Tela 3"  src="/assets/tela3.jpg">
+   <img align="center" alt="Tela 4"  src="/assets/tela4.jpg">
 </div>
