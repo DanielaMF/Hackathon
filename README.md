@@ -36,6 +36,10 @@ Todo código gerado foi hospedado em um repositório `privado` utilizado e permi
 <div style="display: inline_block"><br>
   <img align="center" alt="Tela Inicial" src="/assets/tela1.jpg">
   <img align="center" alt="Tela 2"  src="/assets/tela2.jpg">
-   <img align="center" alt="Tela 3"  src="/assets/tela3.jpg">
-   <img align="center" alt="Tela 4"  src="/assets/tela4.jpg">
+  <img align="center" alt="Tela 3"  src="/assets/tela3.jpg">
+  <img align="center" alt="Tela 4"  src="/assets/tela4.jpg">
 </div>
+
+## 4 - Certificado
+
+<img align="center" alt="Tela 4"  src="/assets/certificado.jpg">
