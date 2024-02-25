@@ -4,10 +4,6 @@ Esse repositório é para documentar o meu projeto `hackathon`, o projeto teve a
 
 Meu objetivo nesse projeto foi desenvolver uma melhoria do processo de atendimento aos chamados, cujas as plataformas que possuem muitos arquivos acabam dificultando o alcance de informações necessárias para o desenvolvimento dos chamados. 
 
-## Agradecimentos
-
-Gostaria de expressar minha sincera gratidão à Agrosys por ter organizado este incrível Hackathon. Foi uma oportunidade inestimável para aprender, colaborar e colocar minhas habilidades à prova. Foi um marco em minha carreira e me deu a motivação e o conhecimento para continuar aprendendo e crescendo profissionalmente.
-
 ## Organização geral
 
 Data: `05/06/2023` até `07/07/2023`
@@ -43,6 +39,10 @@ Todo código gerado foi hospedado em um repositório `privado` utilizado e permi
   <img align="center" alt="Tela 3"  src="/assets/tela3.jpg">
   <img align="center" alt="Tela 4"  src="/assets/tela4.jpg">
 </div>
+
+## Agradecimentos
+
+Gostaria de expressar minha sincera gratidão à Agrosys por ter organizado este incrível Hackathon. Foi uma oportunidade inestimável para aprender, colaborar e colocar minhas habilidades à prova. Foi um marco em minha carreira e me deu a motivação e o conhecimento para continuar aprendendo e crescendo profissionalmente.
 
 ## 4 - Certificado
 
